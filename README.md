@@ -6,4 +6,4 @@
 
 ## Output
 
-![](image\Output.png)
+![](Output.png)
